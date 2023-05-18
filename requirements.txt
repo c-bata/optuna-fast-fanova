@@ -3,6 +3,8 @@ optuna
 cython>=3.0.0a10
 scikit-learn
 
+maturin
+
 black
 isort
 flake8
